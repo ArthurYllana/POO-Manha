@@ -1,0 +1,14 @@
+D:\POO manha\ArrayProduto\bin\Debug\net8.0\ArrayProduto.exe
+D:\POO manha\ArrayProduto\bin\Debug\net8.0\ArrayProduto.deps.json
+D:\POO manha\ArrayProduto\bin\Debug\net8.0\ArrayProduto.runtimeconfig.json
+D:\POO manha\ArrayProduto\bin\Debug\net8.0\ArrayProduto.dll
+D:\POO manha\ArrayProduto\bin\Debug\net8.0\ArrayProduto.pdb
+D:\POO manha\ArrayProduto\obj\Debug\net8.0\ArrayProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO manha\ArrayProduto\obj\Debug\net8.0\ArrayProduto.AssemblyInfoInputs.cache
+D:\POO manha\ArrayProduto\obj\Debug\net8.0\ArrayProduto.AssemblyInfo.cs
+D:\POO manha\ArrayProduto\obj\Debug\net8.0\ArrayProduto.csproj.CoreCompileInputs.cache
+D:\POO manha\ArrayProduto\obj\Debug\net8.0\ArrayProduto.dll
+D:\POO manha\ArrayProduto\obj\Debug\net8.0\refint\ArrayProduto.dll
+D:\POO manha\ArrayProduto\obj\Debug\net8.0\ArrayProduto.pdb
+D:\POO manha\ArrayProduto\obj\Debug\net8.0\ArrayProduto.genruntimeconfig.cache
+D:\POO manha\ArrayProduto\obj\Debug\net8.0\ref\ArrayProduto.dll

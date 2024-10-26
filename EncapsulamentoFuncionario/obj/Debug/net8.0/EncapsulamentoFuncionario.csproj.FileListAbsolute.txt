@@ -1,0 +1,14 @@
+D:\POO manha\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO manha\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.AssemblyInfoInputs.cache
+D:\POO manha\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.AssemblyInfo.cs
+D:\POO manha\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.csproj.CoreCompileInputs.cache
+D:\POO manha\EncapsulamentoFuncionario\bin\Debug\net8.0\EncapsulamentoFuncionario.exe
+D:\POO manha\EncapsulamentoFuncionario\bin\Debug\net8.0\EncapsulamentoFuncionario.deps.json
+D:\POO manha\EncapsulamentoFuncionario\bin\Debug\net8.0\EncapsulamentoFuncionario.runtimeconfig.json
+D:\POO manha\EncapsulamentoFuncionario\bin\Debug\net8.0\EncapsulamentoFuncionario.dll
+D:\POO manha\EncapsulamentoFuncionario\bin\Debug\net8.0\EncapsulamentoFuncionario.pdb
+D:\POO manha\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.dll
+D:\POO manha\EncapsulamentoFuncionario\obj\Debug\net8.0\refint\EncapsulamentoFuncionario.dll
+D:\POO manha\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.pdb
+D:\POO manha\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.genruntimeconfig.cache
+D:\POO manha\EncapsulamentoFuncionario\obj\Debug\net8.0\ref\EncapsulamentoFuncionario.dll

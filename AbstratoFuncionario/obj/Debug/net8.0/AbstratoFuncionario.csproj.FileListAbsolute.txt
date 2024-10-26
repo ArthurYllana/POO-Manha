@@ -1,0 +1,28 @@
+C:\Users\aluno\Downloads\JU8XVWVZJRK8TKLQHRSUIZ2Z3TE6L6\POO manha\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\JU8XVWVZJRK8TKLQHRSUIZ2Z3TE6L6\POO manha\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\JU8XVWVZJRK8TKLQHRSUIZ2Z3TE6L6\POO manha\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.AssemblyInfo.cs
+C:\Users\aluno\Downloads\JU8XVWVZJRK8TKLQHRSUIZ2Z3TE6L6\POO manha\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\JU8XVWVZJRK8TKLQHRSUIZ2Z3TE6L6\POO manha\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.exe
+C:\Users\aluno\Downloads\JU8XVWVZJRK8TKLQHRSUIZ2Z3TE6L6\POO manha\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.deps.json
+C:\Users\aluno\Downloads\JU8XVWVZJRK8TKLQHRSUIZ2Z3TE6L6\POO manha\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.runtimeconfig.json
+C:\Users\aluno\Downloads\JU8XVWVZJRK8TKLQHRSUIZ2Z3TE6L6\POO manha\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.dll
+C:\Users\aluno\Downloads\JU8XVWVZJRK8TKLQHRSUIZ2Z3TE6L6\POO manha\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.pdb
+C:\Users\aluno\Downloads\JU8XVWVZJRK8TKLQHRSUIZ2Z3TE6L6\POO manha\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.dll
+C:\Users\aluno\Downloads\JU8XVWVZJRK8TKLQHRSUIZ2Z3TE6L6\POO manha\AbstratoFuncionario\obj\Debug\net8.0\refint\AbstratoFuncionario.dll
+C:\Users\aluno\Downloads\JU8XVWVZJRK8TKLQHRSUIZ2Z3TE6L6\POO manha\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.pdb
+C:\Users\aluno\Downloads\JU8XVWVZJRK8TKLQHRSUIZ2Z3TE6L6\POO manha\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.genruntimeconfig.cache
+C:\Users\aluno\Downloads\JU8XVWVZJRK8TKLQHRSUIZ2Z3TE6L6\POO manha\AbstratoFuncionario\obj\Debug\net8.0\ref\AbstratoFuncionario.dll
+C:\Users\USUARIO\Desktop\POO manha 2\POO manha\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\POO manha 2\POO manha\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\POO manha 2\POO manha\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\POO manha 2\POO manha\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\POO manha 2\POO manha\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.dll
+C:\Users\USUARIO\Desktop\POO manha 2\POO manha\AbstratoFuncionario\obj\Debug\net8.0\refint\AbstratoFuncionario.dll
+C:\Users\USUARIO\Desktop\POO manha 2\POO manha\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.pdb
+C:\Users\USUARIO\Desktop\POO manha 2\POO manha\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.exe
+C:\Users\USUARIO\Desktop\POO manha 2\POO manha\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.deps.json
+C:\Users\USUARIO\Desktop\POO manha 2\POO manha\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.runtimeconfig.json
+C:\Users\USUARIO\Desktop\POO manha 2\POO manha\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.dll
+C:\Users\USUARIO\Desktop\POO manha 2\POO manha\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.pdb
+C:\Users\USUARIO\Desktop\POO manha 2\POO manha\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\POO manha 2\POO manha\AbstratoFuncionario\obj\Debug\net8.0\ref\AbstratoFuncionario.dll
