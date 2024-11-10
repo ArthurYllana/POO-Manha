@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Desktop\\POO-Manhã\\POO-Manha\\InterfaceTributavel\\InterfaceTributavel.csproj": {}
+    "C:\\Users\\USUARIO\\Desktop\\POO\\POO-Manha\\InterfaceTributavel\\InterfaceTributavel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Desktop\\POO-Manhã\\POO-Manha\\InterfaceTributavel\\InterfaceTributavel.csproj": {
+    "C:\\Users\\USUARIO\\Desktop\\POO\\POO-Manha\\InterfaceTributavel\\InterfaceTributavel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\POO-Manhã\\POO-Manha\\InterfaceTributavel\\InterfaceTributavel.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\POO\\POO-Manha\\InterfaceTributavel\\InterfaceTributavel.csproj",
         "projectName": "InterfaceTributavel",
-        "projectPath": "C:\\Users\\aluno\\Desktop\\POO-Manhã\\POO-Manha\\InterfaceTributavel\\InterfaceTributavel.csproj",
-        "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Desktop\\POO-Manhã\\POO-Manha\\InterfaceTributavel\\obj\\",
+        "projectPath": "C:\\Users\\USUARIO\\Desktop\\POO\\POO-Manha\\InterfaceTributavel\\InterfaceTributavel.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\Desktop\\POO\\POO-Manha\\InterfaceTributavel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
