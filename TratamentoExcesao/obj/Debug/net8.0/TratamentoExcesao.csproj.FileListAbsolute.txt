@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\POO\POO-Manha\TratamentoExcesao\bin\Debug\net8.0\TratamentoExcesao.exe
+C:\Users\aluno\Desktop\POO\POO-Manha\TratamentoExcesao\bin\Debug\net8.0\TratamentoExcesao.deps.json
+C:\Users\aluno\Desktop\POO\POO-Manha\TratamentoExcesao\bin\Debug\net8.0\TratamentoExcesao.runtimeconfig.json
+C:\Users\aluno\Desktop\POO\POO-Manha\TratamentoExcesao\bin\Debug\net8.0\TratamentoExcesao.dll
+C:\Users\aluno\Desktop\POO\POO-Manha\TratamentoExcesao\bin\Debug\net8.0\TratamentoExcesao.pdb
+C:\Users\aluno\Desktop\POO\POO-Manha\TratamentoExcesao\obj\Debug\net8.0\TratamentoExcesao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO\POO-Manha\TratamentoExcesao\obj\Debug\net8.0\TratamentoExcesao.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO\POO-Manha\TratamentoExcesao\obj\Debug\net8.0\TratamentoExcesao.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO\POO-Manha\TratamentoExcesao\obj\Debug\net8.0\TratamentoExcesao.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO\POO-Manha\TratamentoExcesao\obj\Debug\net8.0\TratamentoExcesao.sourcelink.json
+C:\Users\aluno\Desktop\POO\POO-Manha\TratamentoExcesao\obj\Debug\net8.0\TratamentoExcesao.dll
+C:\Users\aluno\Desktop\POO\POO-Manha\TratamentoExcesao\obj\Debug\net8.0\refint\TratamentoExcesao.dll
+C:\Users\aluno\Desktop\POO\POO-Manha\TratamentoExcesao\obj\Debug\net8.0\TratamentoExcesao.pdb
+C:\Users\aluno\Desktop\POO\POO-Manha\TratamentoExcesao\obj\Debug\net8.0\TratamentoExcesao.genruntimeconfig.cache
+C:\Users\aluno\Desktop\POO\POO-Manha\TratamentoExcesao\obj\Debug\net8.0\ref\TratamentoExcesao.dll

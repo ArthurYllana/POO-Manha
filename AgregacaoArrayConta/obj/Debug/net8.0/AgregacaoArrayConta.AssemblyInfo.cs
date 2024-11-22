@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgregacaoArrayConta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68d7d6b3e32c3cf447dad5616c2ba31c41a7649e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5afff9f5afe265f24a5277060cac5d36741d682")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgregacaoArrayConta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgregacaoArrayConta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
